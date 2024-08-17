@@ -4,6 +4,10 @@
 
 ---
 
+branch:
+   - main: [intel wifi](https://github.com/cuihairu/TUF-GAMING-B760M-PLUS-WIFI-i714700KF-RX6950XT-Hackintosh/tree/main)
+   - broadcom: [broadcom wifi](https://github.com/cuihairu/TUF-GAMING-B760M-PLUS-WIFI-i714700KF-RX6950XT-Hackintosh/tree/broadcom) 
+
 ### Information 
 
 - macOS: [Sonoma](https://www.apple.com/macos/sonoma/)
